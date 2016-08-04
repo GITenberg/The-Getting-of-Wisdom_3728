@@ -1,0 +1,33 @@
+_repo: The-Getting-of-Wisdom_3728
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Richardson, Henry Handel
+    aliases:
+    - Richardson, Ethel Henrietta
+    - Richardson, Ethel Florence Lindesay
+    - Robertson, Ethel Florence Lindesay Richardson
+    birthdate: 1870
+    deathdate: 1946
+    gutenberg_agent_id: '1281'
+    url: http://www.gutenberg.org/2009/agents/1281
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Handel_Richardson
+description: ''
+gutenberg_issued: '2003-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3728'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Melbourne (Vic.) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Autobiographical fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Australia -- Fiction'
+- !lcsh 'Bildungsromans'
+- GITenberg
+title: The Getting of Wisdom
+url: http://www.gutenberg.org/ebooks/3728
